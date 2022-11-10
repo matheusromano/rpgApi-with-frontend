@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mbraga\\Downloads\\trabalhoweb\\Projeto-csharp-api-master\\rpgAPi\\Backend\\rpgAPi.csproj": {}
+    "C:\\Users\\erics\\Desktop\\trabalho2\\rpgApi-with-frontend\\backend\\rpgAPi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mbraga\\Downloads\\trabalhoweb\\Projeto-csharp-api-master\\rpgAPi\\Backend\\rpgAPi.csproj": {
+    "C:\\Users\\erics\\Desktop\\trabalho2\\rpgApi-with-frontend\\backend\\rpgAPi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mbraga\\Downloads\\trabalhoweb\\Projeto-csharp-api-master\\rpgAPi\\Backend\\rpgAPi.csproj",
+        "projectUniqueName": "C:\\Users\\erics\\Desktop\\trabalho2\\rpgApi-with-frontend\\backend\\rpgAPi.csproj",
         "projectName": "rpgAPi",
-        "projectPath": "C:\\Users\\mbraga\\Downloads\\trabalhoweb\\Projeto-csharp-api-master\\rpgAPi\\Backend\\rpgAPi.csproj",
-        "packagesPath": "C:\\Users\\mbraga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mbraga\\Downloads\\trabalhoweb\\Projeto-csharp-api-master\\rpgAPi\\Backend\\obj\\",
+        "projectPath": "C:\\Users\\erics\\Desktop\\trabalho2\\rpgApi-with-frontend\\backend\\rpgAPi.csproj",
+        "packagesPath": "C:\\Users\\erics\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erics\\Desktop\\trabalho2\\rpgApi-with-frontend\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mbraga\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\erics\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -71,7 +71,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -83,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

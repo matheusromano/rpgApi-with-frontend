@@ -9,10 +9,17 @@
 		<script src="script.js"></script>
 	</head>
 	<body>
+		<nav>
+			<ul>
+				<li><a href="user.html">Usuario</a></li>
+				<li><a href="character.html">Character</a></li>
+				<li><a href="skill.html">Skill</a></li>
+			</ul>
+		</nav>
 		<div class="form">
-			<button onclick="listar()">Listar Usuários</button>
-			<div id="lista-usuarios"></div>
-			<p>Ir para <a href="cadastrar.html">cadastro de usuários</a></p>
+			<input id="username" placeholder="Informe o nome do usuario" type="text"/>
+			<button onclick="cadastrar()">Cadastrar</button>
+			<p>Ir para <a href="listar.html">lista de usuários</a></p>
 		</div>
 	</body>
 </html>
