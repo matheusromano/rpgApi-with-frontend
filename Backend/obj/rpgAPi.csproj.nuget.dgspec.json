@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\erics\\Desktop\\trabalho2\\rpgApi-with-frontend\\backend\\rpgAPi.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\erics\\Desktop\\trabalho2\\rpgApi-with-frontend\\backend\\rpgAPi.csproj",
         "packagesPath": "C:\\Users\\erics\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\erics\\Desktop\\trabalho2\\rpgApi-with-frontend\\backend\\obj\\",
+=======
+    "C:\\Users\\mbraga\\Downloads\\trabalhoweb\\Projeto-csharp-api-master\\rpgAPi\\rpgApi-with-frontend\\Backend\\rpgAPi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mbraga\\Downloads\\trabalhoweb\\Projeto-csharp-api-master\\rpgAPi\\rpgApi-with-frontend\\Backend\\rpgAPi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mbraga\\Downloads\\trabalhoweb\\Projeto-csharp-api-master\\rpgAPi\\rpgApi-with-frontend\\Backend\\rpgAPi.csproj",
+        "projectName": "rpgAPi",
+        "projectPath": "C:\\Users\\mbraga\\Downloads\\trabalhoweb\\Projeto-csharp-api-master\\rpgAPi\\rpgApi-with-frontend\\Backend\\rpgAPi.csproj",
+        "packagesPath": "C:\\Users\\mbraga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mbraga\\Downloads\\trabalhoweb\\Projeto-csharp-api-master\\rpgAPi\\rpgApi-with-frontend\\Backend\\obj\\",
+>>>>>>> 8cdecbb1ea1ab4ddf5040a726b22ce4ade14897e
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erics\\AppData\\Roaming\\NuGet\\NuGet.Config"

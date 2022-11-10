@@ -8,9 +8,17 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = rpgAPi
 build_property.RootNamespace = rpgAPi
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\erics\Desktop\trabalho2\rpgApi-with-frontend\backend\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\erics\Desktop\trabalho2\rpgApi-with-frontend\backend
+=======
+build_property.ProjectDir = c:\Users\mbraga\Downloads\trabalhoweb\Projeto-csharp-api-master\rpgAPi\rpgApi-with-frontend\Backend\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\mbraga\Downloads\trabalhoweb\Projeto-csharp-api-master\rpgAPi\rpgApi-with-frontend\Backend
+>>>>>>> 8cdecbb1ea1ab4ddf5040a726b22ce4ade14897e
 build_property._RazorSourceGeneratorDebug = 

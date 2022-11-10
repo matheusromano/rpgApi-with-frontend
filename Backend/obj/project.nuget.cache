@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "n4yq3tfhh8yg+gnwfVKLneeuSAUam6pPziB8n1eJ49s4kx4Do9ErsYX6q9VG33yE3cbB95meAVa5IGHhMM8eag==",
   "success": true,
   "projectFilePath": "C:\\Users\\erics\\Desktop\\trabalho2\\rpgApi-with-frontend\\backend\\rpgAPi.csproj",
+=======
+  "dgSpecHash": "iuj1dB6t14vAgG9J2T7fWdv4NazUrRnbvRJMDb7bfYjBIsjoNmzWscbdtdEcHAA4lMRGsixbGZWuBKnowJ/phQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mbraga\\Downloads\\trabalhoweb\\Projeto-csharp-api-master\\rpgAPi\\rpgApi-with-frontend\\Backend\\rpgAPi.csproj",
+>>>>>>> 8cdecbb1ea1ab4ddf5040a726b22ce4ade14897e
   "expectedPackageFiles": [
     "C:\\Users\\erics\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\erics\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
